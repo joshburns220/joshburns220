@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Josh Burns.
+- 👀 I’m interested in low-level programming and systems and algorithm design.
+- 🌱 I’m currently learning C++.
+- 📫 How to reach me: joshburns220@gmail.com
